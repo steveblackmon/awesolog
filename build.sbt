@@ -1,5 +1,5 @@
 val scala213 = "2.13.12"
-val awsVersion = "2.21.24"
+val awsVersion = "2.25.32"
 
 val scalaTestArtifact = "org.scalatest"          %% "scalatest"        % "3.2.16" % Test
 val junitArtifact     = "junit"                  % "junit"             % "4.11" % Test
